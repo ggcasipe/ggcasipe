@@ -119,3 +119,33 @@ background-color: #a6adb3;
   text-align: center;
   background: #ddd;
 }
+@media (max-width:960px) {
+    
+            .content { grid-area: main; }
+        .right { grid-area: right; }
+        .left { grid-area: left; }
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'header header header'
+    'main main main '
+    'main main main '
+    'main main main '
+    'main main main '
+    'main main main '
+    'main main main '
+    'main main main ';
+  grid-gap: 10px;
+  background-color: #403e3e;
+  padding: 10px;
+    margin-left: 125px;
+    margin-right: 125px;
+}
+
+.grid-container > div {
+  background-color:#87c6ff;
+  padding: 20px 0;
+  font-size: 15px;
+}
+}
