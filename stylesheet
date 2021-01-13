@@ -148,4 +148,10 @@ background-color: #a6adb3;
   padding: 20px 0;
   font-size: 15px;
 }
+
+body {
+width:auto;
+float:none;
+}
+
 }
