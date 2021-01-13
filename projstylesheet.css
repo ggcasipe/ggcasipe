@@ -119,7 +119,7 @@ background-color: #a6adb3;
   text-align: center;
   background: #ddd;
 }
-@media (max-width:960px) {
+@media screen and (max-width:960px) {
     
             .content { grid-area: main; }
         .right { grid-area: right; }
