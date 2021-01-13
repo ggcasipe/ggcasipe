@@ -1,16 +1,68 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>About</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="projstylesheet.css">
+</head>
+<body>
 
-<!--
-**ggcasipe/ggcasipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="header">
+  <h1>About</h1>
+  <p>A website created by Giuseppe Gabriel J. Casipe.</p>
+</div>
 
-Here are some ideas to get you started:
+<div class="navbar">
+            <a href="index.html">Index/Table of Contents</a>
+            <a href="content.html">Chapter 1 </a>
+            <a href="content2.html">Chapter 2</a>
+            <a href="content3.html">Chapter 3</a>
+            <a href="aboutz.html">About (you are here)</a>
+        </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <div class="leftside">
+      <div class="text">
+      <h3> Credits</h3>
+          <br>
+          <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Ffinancialtribune.com%2Fsites%2Fdefault%2Ffiles%2Ffield%2Fimage%2F17january%2F15_philippines_10.jpg&imgrefurl=https%3A%2F%2Ffinancialtribune.com%2Farticles%2Fworld-economy%2F87418%2Fphilippines-should-do-more-to-end-poverty&tbnid=5gpLFTLPwUtfmM&vet=12ahUKEwi76ZGX9tbsAhUNHqYKHeRWBdAQMygDegUIARDTAQ..i&docid=vmlpVXC2wThnsM&w=600&h=400&q=poverty%20in%20the%20philippines&ved=2ahUKEwi76ZGX9tbsAhUNHqYKHeRWBdAQMygDegUIARDTAQ">Poverty picture</a><br>
+          <a href="https://www.google.com/imgres?imgurl=http%3A%2F%2Fcnnphilippines.com%2F.imaging%2Fmte%2Fdemo-cnn-new%2F750x450%2Fdam%2Fcnn%2F2019%2F02%2F22%2Fpasay-crime-scene-yellow-line_CNNPH.png%2Fjcr%3Acontent%2Fpasay-crime-scene-yellow-line_CNNPH.png&imgrefurl=http%3A%2F%2Fcnnphilippines.com%2Fnews%2F2019%2F02%2F22%2Fsws-common-crimes-q4-2018.html&tbnid=GT4VdhUum6mDzM&vet=12ahUKEwj07szz9dbsAhUDXJQKHZU_CLMQMygGegUIARDLAQ..i&docid=IWD34ysE-g0GiM&w=750&h=450&q=crime%20in%20the%20philippines&ved=2ahUKEwj07szz9dbsAhUDXJQKHZU_CLMQMygGegUIARDLAQ">Crime picture</a> <br>
+          <a href="https://www.google.com/imgres?imgurl=http%3A%2F%2Fimages.summitmedia-digital.com%2Fesquiremagph%2Fimages%2F2019%2F01%2F30%2FCORRUPTION-PHILIPPINES_COVER_JAN2019.jpg&imgrefurl=https%3A%2F%2Fwww.esquiremag.ph%2Fpolitics%2Fopinion%2Fphilippines-corruption-perceptions-index-a00290-20190130&tbnid=Wx8GwZCHIKfs_M&vet=12ahUKEwij1-7T9dbsAhWiI6YKHTQ1ANAQMygBegUIARDMAQ..i&docid=Rttyy42mO6yDGM&w=970&h=546&q=corruption%20in%20the%20philippines&ved=2ahUKEwij1-7T9dbsAhWiI6YKHTQ1ANAQMygBegUIARDMAQ">Corruption picture</a> <br>
+          <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaYPIH4TmQek4ir2jeeNulR8iau9eYDzjfRg&usqp=CAU"> Slave picture</a><br>
+          <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2019%2F12%2F10%2Fworld%2F10philippines-1sub%2F10philippines-1sub-mobileMasterAt3x.jpg&imgrefurl=https%3A%2F%2Fwww.nytimes.com%2F2019%2F12%2F10%2Fworld%2Fasia%2Fduterte-martial-law-philippines.html&tbnid=DtjkaLNU2F-AuM&vet=12ahUKEwjH5sCDk9fsAhWWAqYKHa9KC-kQMygCegUIARDVAQ..i&docid=_ZhcFHzwdnOqDM&w=1800&h=1202&q=martial%20law&ved=2ahUKEwjH5sCDk9fsAhWWAqYKHa9KC-kQMygCegUIARDVAQ">Martial law picture</a><br>
+          <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fsa.kapamilya.com%2Fabsnews%2Fabscbnnews%2Fmedia%2F2020%2Fnews%2F09%2F19%2Fsanbag-manila-bay.jpg&imgrefurl=https%3A%2F%2Fnews.abs-cbn.com%2Fnews%2F09%2F23%2F20%2Ftingnan-sandbags-pinalibot-sa-paligid-ng-white-sand-sa-manila-bay&tbnid=AovV4bFrHVZ6VM&vet=12ahUKEwis8bvYlNfsAhVFdJQKHSR4CMAQMygGegUIARCnAQ..i&docid=j7pjEZN2JzVZ6M&w=950&h=633&q=manil%20bay%20wash%20out%20sand&ved=2ahUKEwis8bvYlNfsAhVFdJQKHSR4CMAQMygGegUIARCnAQ">Manila bay picture</a> <br>
+          <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fqph.fs.quoracdn.net%2Fmain-qimg-65409e186d8baf7322ca098a5ae28261&imgrefurl=https%3A%2F%2Fwww.quora.com%2FWas-the-Philippines-a-Spanish-colony&tbnid=fxNjHJ9zPli8JM&vet=12ahUKEwikmq2fldfsAhU0NaYKHcy4BcwQMygNegUIARDBAQ..i&docid=sl_aqh0183CHsM&w=602&h=299&q=philippine%20colony&ved=2ahUKEwikmq2fldfsAhU0NaYKHcy4BcwQMygNegUIARDBAQ">Philippine colonization picture</a> <br>
+          <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fndfp.org%2Fwp-content%2Fuploads%2F2019%2F02%2FFreedom-of-the-press-1030x796.jpg&imgrefurl=https%3A%2F%2Fndfp.org%2Fon-fascist-cyberattacks-and-assault-on-media-to-silence-the-people%2F&tbnid=PWwg2ArF4rz0zM&vet=12ahUKEwi3weX5l9fsAhVHyZQKHWYKAHcQMygEegUIARCoAQ..i&docid=IemIS2a2YHWuYM&w=1030&h=796&q=silence%20media&ved=2ahUKEwi3weX5l9fsAhVHyZQKHWYKAHcQMygEegUIARCoAQ">Silencing the press picture</a> <br>
+          <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2F34th-hunger-games%2Fimages%2Fb%2Fb6%2FUnknown-4.jpeg%2Frevision%2Flatest%3Fcb%3D20180721081359&imgrefurl=https%3A%2F%2F34th-hunger-games-fanon.fandom.com%2Fwiki%2FThe_75th_Hunger_Games&tbnid=TXN6s6m0CA6XeM&vet=12ahUKEwiygYnvmNfsAhVFzYsBHVELAMQQMygFegUIARDaAQ..i&docid=qY0AAslnlMb1LM&w=300&h=168&q=hunger%20games%20arena&ved=2ahUKEwiygYnvmNfsAhVFzYsBHVELAMQQMygFegUIARDaAQ">Hunger games arena picture</a> <br>
+          <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded%2F1207411%2F1207411-1542562937376-5040de366a8e9.jpg&imgrefurl=https%3A%2F%2Fwww.stitcher.com%2Fpodcast%2Fanchor-podcasts%2Fwhat-are-your-thoughts&tbnid=tt_vJhnVR4IGrM&vet=12ahUKEwiaydn5mdfsAhWzxosBHRjnAGQQMygAegUIARCoAQ..i&docid=3I1_Nj8SCM-VZM&w=3000&h=3000&q=what%20are%20your%20thoughts&hl=en&ved=2ahUKEwiaydn5mdfsAhWzxosBHRjnAGQQMygAegUIARCoAQ">What are your thoughts? picture</a>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+      </div>
+  </div>
+  <div class="mainside">
+     <div class="text">
+        <h3>About</h3>
+         <br>
+         Hi! My name is Giuseppe Gabriel J. Casipe. I am the creator of this site. Thank you for reading my satirical essay. All content is satirical and unethical on purpose. I hope youhad a good chuckle or two from it. Have a nice day!
+         <br>
+         <h4>Social media</h4>
+         <br>
+         <p>FB: Giuseppe Casipe</p>
+	<p>Twitter: @PCasipe_vevo</p>
+    <p>IG: giu_c_27</p>
+        <h2> Thank you for visting my site!!!</h2>
+         <h3 class="footer">-----End of page-----</h3>
+      </div>
+  </div>
+</body>
+</html>
